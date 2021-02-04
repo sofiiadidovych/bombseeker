@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    margin: 20px;
+    padding: 5px;
+}
+
+.row {
+    flex-direction: row;
+}
+
+button {
+    height: 90px;
+    width: 90px;
+    padding: 5px;
+    margin: 1px;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
